@@ -12,4 +12,13 @@
 
 - Find this criteria at file: 1-Source-Inspiration-for-Visual-Design.pdf 
 
-## 
+## Style Guide
+
+- Link to figma style guide: https://www.figma.com/design/kD8cNkavUoBPRhXB3tTeRp/Style-Guide?node-id=0-1&t=IjnVBhe80s7M8t44-1
+
+- This is a design frame includes a complete list of visual elements including:
+    - Typography (sizes, weights, and styles)
+    - Colors (How foreground colors and background colors interact)
+    - UI Elements and Styles
+    - Imagery/Illustrations
+    - Icons
