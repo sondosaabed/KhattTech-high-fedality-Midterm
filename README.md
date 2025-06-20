@@ -8,3 +8,8 @@
 
 - Digital Prototype low fedality second iteration: https://www.figma.com/proto/Bv8rEh9b4J78khpzpqppHo/Digital-Prototype?node-id=18-483&t=DVihyRmSdRWKDROw-1&scaling=min-zoom&content-scaling=fixed&page-id=18%3A116
 
+## Visual Design Inspiration Library
+
+- Find this criteria at file: 1-Source-Inspiration-for-Visual-Design.pdf 
+
+## 
