@@ -30,7 +30,7 @@ In this repositiry I work on my submission for the midterm project of UI/UX nano
 
 ## 4. Pattern Library
 
-- Figma Link for Pattern Library: 
+- Figma Link for Pattern Library: https://www.figma.com/design/Ws29IirueFcfsB7iQ4ZmzH/Pattern-Library?node-id=0-1&t=sfhy8VPKTtJsKb1L-1
 
 ## 5. High-fidelity Mockups
 
