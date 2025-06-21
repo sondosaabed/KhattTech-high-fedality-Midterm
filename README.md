@@ -15,6 +15,10 @@ In this repositiry I work on my submission for the midterm project of UI/UX nano
 
 - Find this criteria at file: 1-Source-Inspiration-for-Visual-Design.pdf 
 
+    - I Signed up to Mobbin and create a new collection in the "My Collection" tab.
+    - I Search and “Save” the design patterns and elements to your newly created collection.
+    - I Took screenshots of the design patterns and elements in your Mobbin collection and save them in a PDF file.
+
 ## 3. Style Guide & 4. Pattern Library
 
 - Link to figma style guide & pattern library: https://www.figma.com/design/kD8cNkavUoBPRhXB3tTeRp/Style-Guide---Pattern-Library?node-id=0-1&t=VkuaI110cZFlmH8B-1
