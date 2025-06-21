@@ -15,11 +15,11 @@ In this repositiry I work on my submission for the midterm project of UI/UX nano
 
 - Find this criteria at file: 1-Source-Inspiration-for-Visual-Design.pdf 
 
-## 3. Style Guide
+## 3. Style Guide & 4. Pattern Library
 
 - Link to figma style guide: https://www.figma.com/design/kD8cNkavUoBPRhXB3tTeRp/Style-Guide?node-id=0-1&t=IjnVBhe80s7M8t44-1
 
-- Also find as PDF at file: 2-Style-Guide.pdf
+- Also find as PDF at file: 2-Style-Guide--3-Pattern-Library.pdf
 
 - This is a design frame includes a complete list of visual elements including:
     - Typography (sizes, weights, and styles)
@@ -27,10 +27,6 @@ In this repositiry I work on my submission for the midterm project of UI/UX nano
     - UI Elements and Styles
     - Imagery/Illustrations
     - Icons
-
-## 4. Pattern Library
-
-- Figma Link for Pattern Library: https://www.figma.com/design/Ws29IirueFcfsB7iQ4ZmzH/Pattern-Library?node-id=0-1&t=sfhy8VPKTtJsKb1L-1
 
 ## 5. High-fidelity Mockups
 
