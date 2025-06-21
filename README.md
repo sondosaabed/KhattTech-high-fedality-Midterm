@@ -43,3 +43,9 @@ In this repositiry I work on my submission for the midterm project of UI/UX nano
 ## 6. Interactive/Clickable Prototype
 
 - Figma Link for the prototype: https://www.figma.com/proto/H4nPD778PuO7OBR5v7N6z0/High-fedality-Mockups?node-id=0-1&t=7UIBmHVw8vDsTNUW-1
+
+- Also watch as mp4 in the potype.mp4 file.
+
+![Demo](https://github.com/user-attachments/assets/3e3b3d6a-e0aa-42b1-946c-53fe4ed17716)
+
+
