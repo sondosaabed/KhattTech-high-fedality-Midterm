@@ -17,7 +17,7 @@ In this repositiry I work on my submission for the midterm project of UI/UX nano
 
 ## 3. Style Guide & 4. Pattern Library
 
-- Link to figma style guide: https://www.figma.com/design/kD8cNkavUoBPRhXB3tTeRp/Style-Guide?node-id=0-1&t=IjnVBhe80s7M8t44-1
+- Link to figma style guide & pattern library: https://www.figma.com/design/kD8cNkavUoBPRhXB3tTeRp/Style-Guide---Pattern-Library?node-id=0-1&t=VkuaI110cZFlmH8B-1
 
 - Also find as PDF at file: 2-Style-Guide--3-Pattern-Library.pdf
 
@@ -27,6 +27,10 @@ In this repositiry I work on my submission for the midterm project of UI/UX nano
     - UI Elements and Styles
     - Imagery/Illustrations
     - Icons
+    - Buttons
+    - Navigation
+    - Other elements that might apply (ie. search bars, input fields, lists, dialogs etc.)
+    - Defined the do’s and don'ts of how each element of their design should be used and not used.
 
 ## 5. High-fidelity Mockups
 
