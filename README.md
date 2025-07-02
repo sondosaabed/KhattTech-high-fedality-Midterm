@@ -1,4 +1,4 @@
-# KhattTech-high-fedality-Midterm
+# KhattTech High-Fidelity Midterm
 
 Hello, 
 In this repositiry I work on my submission for the midterm project of UI/UX nanodegree program, this is part of Palestine Launchpad scholarship.
